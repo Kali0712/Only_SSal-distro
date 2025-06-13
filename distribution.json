@@ -682,16 +682,6 @@
             "MD5": "c4bef497fe84a0140652e43b267bd6ee"
           }
         },
-        // {
-        //   "id": "net.mcreator:darkbread:1.0.0@jar",
-        //   "name": "DarkBread",
-        //   "type": "ForgeMod",
-        //   "artifact": {
-        //     "size": 51610,
-        //     "url": "https://raw.githubusercontent.com/Kali0712/Only_Ssal-distro/main/servers/Only_SSal-1.20.1/forgemods/required/darkbread-forge-1.20.1-1.0.0.jar",
-        //     "MD5": "28adea404e7d62a10fcbd0ea2dff0b9c"
-        //   }
-        // },
         {
           "id": "net.gamerpotion:darkcap:1.0.7@jar",
           "name": "DarkCap",
@@ -712,16 +702,6 @@
             "MD5": "73bb318eca76601985196ea995be5dd8"
           }
         },
-        // {
-        //   "id": "net.mcreator:darkfeather:1.0.2@jar",
-        //   "name": "DarkFeather - Golden Feather",
-        //   "type": "ForgeMod",
-        //   "artifact": {
-        //     "size": 12623,
-        //     "url": "https://raw.githubusercontent.com/Kali0712/Only_Ssal-distro/main/servers/Only_SSal-1.20.1/forgemods/required/darkfeather-forge-1.20.1-1.0.2.jar",
-        //     "MD5": "bbae61fafe9c3b40cff175e7f497437f"
-        //   }
-        // },
         {
           "id": "net.gamerpotion:darkflight:1.0.8@jar",
           "name": "DarkFlight",
