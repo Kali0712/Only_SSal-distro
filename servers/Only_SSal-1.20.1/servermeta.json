@@ -1,0 +1,29 @@
+{
+  "$schema": "file:///D:/helios/Only_SSal/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.20.1-1.2.0",
+    "name": "Only_SSal (Minecraft 1.20.1)",
+    "description": "Only_SSal Running Minecraft 1.20.1 (Forge v47.2.1)",
+    "icon": "https://raw.githubusercontent.com/Kali0712/Only_SSal_distro/main/serverIMG.png",
+    "address": "61.85.95.176",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.2.1"
+  },
+  "untrackedFiles": [
+	{
+		"appliesTo": ["files"],
+		"patterns": [
+		  "options.txt",
+		  "servers.dat"
+		]
+	}
+  ]
+}
